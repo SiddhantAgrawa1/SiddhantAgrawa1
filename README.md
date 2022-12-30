@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @SiddhantAgrawa1
 - 👀 I’m interested in ...Web Development,
-- 🌱 I’m currently learning ...React
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I have learned ...MERN Stack
 - 📫 How to reach me ...siddhantagrawal2001@gmail.com
